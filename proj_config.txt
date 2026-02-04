@@ -1,0 +1,5 @@
+c:\Irvine;%(AdditionalLibraryDirectories)
+
+user32.lib;irvine32.lib;%(AdditionalDependencies)
+
+c:\Irvine
